@@ -1,6 +1,6 @@
 # wechat
 
-A new Flutter application. important lib and images
+A new Flutter application. important lib and images、pubspec.yaml
 
 ## Getting Started
 
