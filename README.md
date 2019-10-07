@@ -1,6 +1,6 @@
 # wechat
 
-A new Flutter application.
+A new Flutter application. important lib and images
 
 ## Getting Started
 
